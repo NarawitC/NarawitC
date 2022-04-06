@@ -1,6 +1,6 @@
 <img align="center" src="https://c4.wallpaperflare.com/wallpaper/483/851/770/fire-minimalism-minimalist-artist-wallpaper-preview.jpg" width="100%"/>
 <h1 align="center"> Hi there 👋</h1>
-<h3>My name Narawit Chaiyarangkitrat (Note),This is my Github profile </h3>
+<h3>My name is Narawit Chaiyarangkitrat (Note),This is my Github profile </h3>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NarawitC&show_icons=true&hide=issues,contribs&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarawitC&layout=compact&theme=synthwave" />
