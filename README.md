@@ -1,8 +1,9 @@
-<img src="https://cdn.pixabay.com/photo/2021/10/09/19/06/futuristic-architecture-6694976_960_720.jpg" width="100%">
-
+<img align="center" src="https://c4.wallpaperflare.com/wallpaper/483/851/770/fire-minimalism-minimalist-artist-wallpaper-preview.jpg" width="100%"/>
 <h1 align="center"> Hi there 👋</h1>
 <h3>My name Narawit Chaiyarangkitrat (Note),This is my Github profile </h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NarawitC)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NarawitC&show_icons=true&hide=issues,contribs&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarawitC&layout=compact&theme=synthwave" />
 
 <!--
 **NarawitC/NarawitC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
