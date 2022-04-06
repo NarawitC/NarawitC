@@ -1,4 +1,8 @@
-### Hi there 👋
+<img src="https://cdn.pixabay.com/photo/2021/10/09/19/06/futuristic-architecture-6694976_960_720.jpg" width="100%">
+
+<h1 align="center"> Hi there 👋</h1>
+<h3>My name Narawit Chaiyarangkitrat (Note),This is my Github profile </h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NarawitC)
 
 <!--
 **NarawitC/NarawitC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
