@@ -9,7 +9,7 @@
 <p>
 <img src="https://img.shields.io/badge/html-%23f1652a.svg?&style=for-the-badge&logo=html5&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/css-%230070ba.svg?&style=for-the-badge&logo=css3&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=232323"/>
+<img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/bootstrap-%237952b3.svg?&style=for-the-badge&logo=bootstrap&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/tailwind-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=ffffff"/>
@@ -19,6 +19,9 @@
 <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=ffffff"/>
+</p>
+<p>
 <img src="https://img.shields.io/badge/postgresql-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=ffffff"/>
@@ -27,6 +30,11 @@
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=ffffff"/>
 </p>
 
+<!-- 
+for more badges https://simpleicons.org/?q=next
+badgeContent-color (color format: %23[hexcolor])
+full doc: https://shields.io/badges
+-->
 
 <!--
 **NarawitC/NarawitC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
