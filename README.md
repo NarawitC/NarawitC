@@ -7,24 +7,36 @@
 
 <h1>Languages and Tools:</h1>
 <p>
-<img src="https://img.shields.io/badge/html-%23f1652a.svg?&style=for-the-badge&logo=html5&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/css-%230070ba.svg?&style=for-the-badge&logo=css3&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=232323"/>
+<img src="https://img.shields.io/badge/tailwind-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Shadcn/ui-%23000000.svg?&style=for-the-badge&logo=shadcnui&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/html-%23f1652a.svg?&style=for-the-badge&logo=html5&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/css-%23663399.svg?&style=for-the-badge&logo=css&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/bootstrap-%237952b3.svg?&style=for-the-badge&logo=bootstrap&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/tailwind-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=ffffff"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/javascript-%23f0db4e.svg?&style=for-the-badge&logo=javascript&logoColor=232323"/>
-<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/javascript-%23f0db4e.svg?&style=for-the-badge&logo=javascript&logoColor=232323"/>
 </p>
 <p>
 <img src="https://img.shields.io/badge/postgresql-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=ffffff"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Github Actions-%232088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=ffffff"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/googlecloud-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=ffffff"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/graphql-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=ffffff"/>
 </p>
 <p>
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=ffffff"/>
